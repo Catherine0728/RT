@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/bed3d5d7b21d45b1f6bfd0069fa538e49fbcc50a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bffe6e2675c6150195ab87b525a91287697c7a09">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_6193a6aec8eb866fde1d8b2ef1551e716f8e5dee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/737b0637c444c6dd134ad260bf41581fa831cb0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_e6d9d9cd3bf43d9db25d0fc81e3be49005c64ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/cb0e6c84b75debd2201c4c832cd678af64bbc2ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_b31ce1352a897112be073fc0386bbee8c3d5c57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9/rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/rxjava-2.0.2_23021b9972ff8dd007b005b7366c7e0eba37a6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_d74b94022b153917c7d359cd4a98334a0edbec46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/cf6b511ef85a1fb5f3604b6a795006263f0744ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7066f3aa3e93500935f72d9afa10e3c708bfb209">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_cf65a56bc4279a520b1da14f3fb0db32b2fcad68.jar" />
+    </item>
+
+</items>
