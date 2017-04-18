@@ -14,8 +14,8 @@ public class MyClass {
     public static void main(String[] arg) {
 //        skip();
 //        r2Skip();
-//        first();
-        create();
+        first();
+//        create();
     }
 
     public static void skip() {
@@ -62,15 +62,50 @@ public class MyClass {
      */
     // TODO: 17/4/17 rxjava 2之后好像有改动
     public static void first() {
+        Observable.concat(getDataFromLocal(),
+                getDataFromNet())
+                .firstElement()
+                .toObservable()
+                .publish()
+        .subscribe(new Consumer() {
+            @Override
+            public void accept(Object o) throws Exception {
+                System.out.println(o);
+            }
+        });
+    }
 
+    public static Observable getDataFromLocal() {
+        return Observable.create(new ObservableOnSubscribe() {
+            @Override
+            public void subscribe(ObservableEmitter e) throws Exception {
+                Thread.sleep(3000);
+                System.out.println("getDataFromLocal" + System.currentTimeMillis());
+                e.onNext(1);
+                e.onComplete();
+            }
+        });
+    }
+
+    public static Observable getDataFromNet() {
+        return Observable.create(new ObservableOnSubscribe() {
+            @Override
+            public void subscribe(ObservableEmitter e) throws Exception {
+                Thread.sleep(1000);
+                System.out.println("getDataFromNet" + System.currentTimeMillis());
+                e.onNext(2);
+                e.onComplete();
+            }
+        });
     }
 
     public static void create() {
         Observable o = Observable.create(new ObservableOnSubscribe<Object>() {
             @Override
             public void subscribe(ObservableEmitter<Object> e) throws Exception {
+                e.onComplete();
                 for (int i = 0; i < 5; i++) {
-                    System.out.println("emit data"+i);
+                    System.out.println("emit data" + i);
                     e.onNext("create " + i);
                 }
             }
