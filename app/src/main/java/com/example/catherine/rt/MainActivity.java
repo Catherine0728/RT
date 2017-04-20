@@ -23,6 +23,12 @@ import io.reactivex.functions.Function3;
 import io.reactivex.schedulers.Schedulers;
 import io.reactivex.subscribers.ResourceSubscriber;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.TimeZone;
+
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.btn)
@@ -54,7 +60,9 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                concat();
+//                concat();
+                boolean is = aboveSevenOclock();
+                System.out.println(is);
             }
         });
     }
@@ -212,6 +220,24 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
 
+    }
+
+    /**
+     * 是否超过了下午七点，如果是，那么就只判断是否完成自主学习的任务
+     */
+    public static boolean aboveSevenOclock() {
+        SimpleDateFormat sf = new SimpleDateFormat("HH:mm:ss");
+        Calendar c = Calendar.getInstance();
+        c.setTimeZone(TimeZone.getTimeZone("GMT+8:00"));
+
+        Date oldDate = null;
+        try {
+            oldDate = sf.parse(sf.format(c.getTime()));
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+        System.out.println("当前时间是＝＝＝＝》" + oldDate.getHours());
+        return oldDate.getHours() > 18;
     }
 
 
