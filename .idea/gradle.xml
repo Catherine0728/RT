@@ -3,14 +3,17 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/opt/gradle/libexec" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ktproject" />
             <option value="$PROJECT_DIR$/libone" />
             <option value="$PROJECT_DIR$/newrt" />
+            <option value="$PROJECT_DIR$/xiaoguang" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

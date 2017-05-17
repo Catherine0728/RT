@@ -3,57 +3,219 @@
 
     <item
         is-multidex="false"
-        jar="/Users/catherine/.android/build-cache/bed3d5d7b21d45b1f6bfd0069fa538e49fbcc50a/output/jars/classes.jar"
+        jar="/Users/catherine/.android/build-cache/9fad11d985eb7e4122b7d250ea9722d5deed6b2a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="bffe6e2675c6150195ab87b525a91287697c7a09">
-        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_6193a6aec8eb866fde1d8b2ef1551e716f8e5dee.jar" />
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_a010739d94eb866ec05ca98e5787557b415f8312.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/catherine/.android/build-cache/737b0637c444c6dd134ad260bf41581fa831cb0a/output/jars/classes.jar"
+        jar="/Users/catherine/.android/build-cache/cc3cfd0b47f26522cc142cfd33d8ef0b8c014d36/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
-        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_e6d9d9cd3bf43d9db25d0fc81e3be49005c64ff9.jar" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_f70ef1e79c30dffa21014eafd600d51a75f00dfa.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/catherine/.android/build-cache/cb0e6c84b75debd2201c4c832cd678af64bbc2ca/output/jars/classes.jar"
+        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
-        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_b31ce1352a897112be073fc0386bbee8c3d5c57c.jar" />
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/annotations-13.0_960c41648ab9f18ff8662ff9ac8e190fd3775681.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9/rxjava-2.0.2.jar"
+        jar="/Users/catherine/.android/build-cache/d89e827c33b4c20ad8ae07f7ead4e72e15f67425/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
-        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/rxjava-2.0.2_23021b9972ff8dd007b005b7366c7e0eba37a6ff.jar" />
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_b6447b45c16d54a0ef8fe4badd271106e9ba6c98.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jar="/Users/catherine/.android/build-cache/8cc97b09a471d7258975759e8bfe14d3899bbb02/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
-        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_d74b94022b153917c7d359cd4a98334a0edbec46.jar" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_8dfec03266e1e2ce2360b600e8e225616e7f3b22.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/catherine/.android/build-cache/cf6b511ef85a1fb5f3604b6a795006263f0744ff/output/jars/classes.jar"
+        jar="/Users/catherine/.android/build-cache/c2b772d02e95d94c925b6c914b935070457eb4f2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7066f3aa3e93500935f72d9afa10e3c708bfb209">
-        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_cf65a56bc4279a520b1da14f3fb0db32b2fcad68.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_5aeb634b8dd0a249bf24a77cb85c42cddd9eb631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/32d2c80ba43a55bdd26f97b5201ce1dff8f65d98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_48f4dfeae266b33a092d3e575b2bb23b362e57b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/me.tatarka/gradle-retrolambda/3.2.4/54ada546a04c36af9a2c7215c17f599e42bd370f/gradle-retrolambda-3.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54ada546a04c36af9a2c7215c17f599e42bd370f">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/gradle-retrolambda-3.2.4_5a55fbedc3fa9a9a126a3fbddcde9f0fedcb7686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-3/552a40eb47669b78f0f194d526cb21b3aa1f8319/kotlin-stdlib-1.1.2-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="552a40eb47669b78f0f194d526cb21b3aa1f8319">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.2-3_60e3621a0406a18ed9bf35de37a152a950338249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/0ef4e3f98d70b0c6e43f7b84330b11b7fabca406/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_f70f879aae1365f87261eb84f2ffeda537651641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/fc1e014f27cea9d2176142328f0b57b3e08c2627/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_5edf8e3a27e0de0517b8aa7fc35868ac5ec33c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/68bb1987f7e75c6ad28062166c7218af402622e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f8bee169957506578df40084c46dcce783c70fe">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_48b2146d7710811830d3ab2b307fead2406c0991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/e5f2275fc848c0cba22cd8621291e41b1dce8bca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_ec26fff5b2839c9398981c980d1d1b0c57ee354b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/bf7d845aefa9fede2d5b9d338dfcfa163d858657/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_8c0b1b8f4d6817dc824a748a0dc4820c6824fb51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/f513d58fcf6d8eb0b2a5a5d30f7762bf7282318f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_ae0715f9bebc7ae056a1e4a3ef207c05e8c8adbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_bbcedf3bfdbfad7fbab97c493ff06d0827485ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/9c72ba9707c599683348f66bbbf80dc223633e51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_e735d04900b55ea85e95233e15042923c7d83920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/77259f30d12853f1bd84dad3cc722d71b0663ecb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_d143be7ad45e30be8045f8428073274ff88c5b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/7dc2dd43eeb5c5b85035006bf1c1029b197c7afa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_d0bc1e3a27c7746e280f3b321e6298b378af5f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/6175dc37d5d0d5b5bb024d1e66f1803a7033ff84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_5307a387054c93b2671dc93636b289300053a231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/e8fc20eb86539e0ac30bdcb34889b25ae764f943/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/catherine/RT/app/build/intermediates/pre-dexed/debug/classes_69217b693adc52bddc2b157d912f17dd0b4298e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-3/8360677e3d1b9bc9716efead9a4e740c428da2ff/kotlin-stdlib-jre7-1.1.2-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8360677e3d1b9bc9716efead9a4e740c428da2ff">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.2-3_f17716bf9d93fbd8c8c793c482c90c1b4a42c602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/662fdcbf05b6248f8051d47784cffad03fc750a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_2f56151e80ddf3c315dc65cb8fb166cb54b933cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/catherine/.android/build-cache/24ca7773b7c0deb7985cac59e78fe94a04908c53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/catherine/RT/ktproject/build/intermediates/pre-dexed/debug/classes_5ae8fb4ee5ed023ddcb33dd1bd4264ff1472f240.jar" />
     </item>
 
 </items>

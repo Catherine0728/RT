@@ -1,1 +1,1 @@
-include ':app', ':newrt', ':libone'
+include ':app', ':newrt', ':libone', ':ktproject', ':xiaoguang'

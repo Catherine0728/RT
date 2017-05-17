@@ -28,6 +28,8 @@ public class MyClass {
         System.out.println(is);
     }
 
+
+
     public static void create() {
         Observable o = Observable.create(new Observable.OnSubscribe<Object>() {
             @Override
@@ -152,5 +154,7 @@ public class MyClass {
         System.out.println("当前时间是＝＝＝＝》" + oldDate.getHours());
         return oldDate.getHours() > 9;
     }
+
+
 
 }

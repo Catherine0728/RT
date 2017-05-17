@@ -17,6 +17,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="dot"/>
+    <Button
+        android:id="@+id/btn_pause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dot to pause"/>
+
+    <Button
+        android:id="@+id/btn_pause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dot to pause"/>
 
     <EditText
         android:id="@+id/editText"

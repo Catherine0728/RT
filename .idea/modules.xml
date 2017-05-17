@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RT.iml" filepath="$PROJECT_DIR$/RT.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktproject/ktproject.iml" filepath="$PROJECT_DIR$/ktproject/ktproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/libone/libone.iml" filepath="$PROJECT_DIR$/libone/libone.iml" />
       <module fileurl="file://$PROJECT_DIR$/newrt/newrt.iml" filepath="$PROJECT_DIR$/newrt/newrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaoguang/xiaoguang.iml" filepath="$PROJECT_DIR$/xiaoguang/xiaoguang.iml" />
     </modules>
   </component>
 </project>

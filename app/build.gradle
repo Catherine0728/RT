@@ -1,5 +1,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.jakewharton.butterknife'
+apply plugin: 'me.tatarka.retrolambda'
+
 
 android {
     compileSdkVersion 25
@@ -16,6 +18,10 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
         }
     }
 }
@@ -35,4 +41,12 @@ dependencies {
     compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
     compile 'com.jakewharton.rxbinding2:rxbinding-support-v4:2.0.0'
     compile 'com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.0.0'
+    compile 'me.tatarka:gradle-retrolambda:3.2.4'
+    compile 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.3@aar'
+
 }
+
+//sourceCompatibility = "1.8"
+//targetCompatibility = "1.8"
+
+
