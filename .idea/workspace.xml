@@ -14,154 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07b6222f-22bf-456e-b000-8908b4975582" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/annotations_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gradle_retrolambda_3_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_jre7_1_1_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxpermissions_0_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kt/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kt/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kt/kt.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kt/src/main/java/com/example/MyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kt/src/main/java/com/example/ktClass.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kt/src/main/java/com/example/ktClassTwo.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/ktproject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/androidTest/java/com/example/ktproject/ExampleInstrumentedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/java/com/example/ktproject/MainktActivity.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/java/com/example/ktproject/ktClass.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/java/com/example/ktproject/ktClassTwo.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/layout/activity_mainkt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ktproject/src/test/java/com/example/ktproject/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/Cousins.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuang.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IActivityStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/CheckStand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Coke.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/CokeMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/DefaultDayStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/DoubleTwelveDayStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Drink.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/HotDryNoodlesWithBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/OrangeJuice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/OrangeMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/ThanksGivingDayStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/xiaoguang.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小光/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小光/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小光/src/main/java/com/example/MyClass.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-08-10-679.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-09-58-514.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-10-33-774.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-10-57-317.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-11-36-411.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-11-50-153.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-11-59-025.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-11-59-948.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-37-51-518.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-53-38-869.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-53-43-637.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-53-58-873.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-10-54-00-165.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-23-32-818.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-23-36-275.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-27-59-217.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-28-00-676.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-28-49-221.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-28-50-551.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-29-09-927.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-11-29-12-227.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-05-21-047.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-07-29-387.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-11-21-203.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-11-32-422.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-15-18-50-076.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-15-22-31-920.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-16-11-14-017.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-16-12-16-427.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-16-40-30-136.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-18-12-56-736.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-18-21-45-238.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-14-18-27-29-464.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-10-18-51-134.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-10-19-06-636.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-10-20-13-611.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-10-20-28-029.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-18-03-28-047.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-18-03-37-529.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-20-10-09-06-413.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-20-10-52-21-426.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-20-10-55-59-943.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-20-10-59-48-081.rawproto" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangDecorate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IDrink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/DecorateCoke.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Ice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Stuff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RT.iml" afterPath="$PROJECT_DIR$/RT.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/catherine/rt/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/catherine/rt/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libone/build.gradle" afterPath="$PROJECT_DIR$/libone/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libone/libone.iml" afterPath="$PROJECT_DIR$/libone/libone.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libone/src/main/java/com/example/MyClass.java" afterPath="$PROJECT_DIR$/libone/src/main/java/com/example/MyClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newrt/build.gradle" afterPath="$PROJECT_DIR$/newrt/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newrt/newrt.iml" afterPath="$PROJECT_DIR$/newrt/newrt.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newrt/src/main/java/com/example/MyClass.java" afterPath="$PROJECT_DIR$/newrt/src/main/java/com/example/MyClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="RT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -207,21 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="XiaoGuang.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuang.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XiaoGuangActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="XiaoGuangActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="315">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -229,12 +81,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IActivityStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IActivityStrategy.java">
+      <file leaf-file-name="XiaoGuangDecorate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangDecorate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IDrink.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IDrink.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecorateCoke.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/DecorateCoke.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stuff.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Stuff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Ice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -281,40 +188,6 @@
                 <element signature="e#245#246#0" expanded="true" />
                 <element signature="e#310#311#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IMachine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cousins.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/Cousins.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrangeMachine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/OrangeMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -5126,6 +4999,12 @@
         <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/CheckStandForActivityStrategy.java" />
         <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/CheckStand.java" />
         <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangActivity.java" />
+        <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangOriginal.java" />
+        <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IDrink.java" />
+        <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/DecorateCoke.java" />
+        <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Stuff.java" />
+        <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Ice.java" />
+        <option value="$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangDecorate.java" />
       </list>
     </option>
   </component>
@@ -5343,27 +5222,7 @@
       <recent name="$PROJECT_DIR$/ktproject/src/main/java/com/example/ktproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XiaoGuangActivity">
-    <configuration default="false" name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.MyClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="newrt" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.XiaoGuangDecorate">
     <configuration default="false" name="MyClass (3)" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -5432,6 +5291,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.example.XiaoGuangActivity" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xiaoguang" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="XiaoGuangDecorate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.XiaoGuangDecorate" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -5807,19 +5686,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Android App.app" />
       <item index="1" class="java.lang.String" itemvalue="Android App.ktproject" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyClass" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MyClass (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.XiaoGuang" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Cousins" />
-      <item index="6" class="java.lang.String" itemvalue="Application.XiaoGuangActivity" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MyClass (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.XiaoGuang" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Cousins" />
+      <item index="5" class="java.lang.String" itemvalue="Application.XiaoGuangActivity" />
+      <item index="6" class="java.lang.String" itemvalue="Application.XiaoGuangDecorate" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.XiaoGuangActivity" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Cousins" />
-        <item index="2" class="java.lang.String" itemvalue="Application.XiaoGuang" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MyClass (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MyClass" />
+        <item index="0" class="java.lang.String" itemvalue="Application.XiaoGuangDecorate" />
+        <item index="1" class="java.lang.String" itemvalue="Application.XiaoGuangActivity" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Cousins" />
+        <item index="3" class="java.lang.String" itemvalue="Application.XiaoGuang" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MyClass (3)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -5912,35 +5791,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/9a1b0d93f8494992f1cef4155893d85268bdfc64/rxjava-2.0.2-sources.jar!/io/reactivex/schedulers/Schedulers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/9a1b0d93f8494992f1cef4155893d85268bdfc64/rxjava-2.0.2-sources.jar!/io/reactivex/Maybe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/catherine/rt/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="108" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ktproject/src/main/java/com/example/ktproject/person.kt" />
-    <entry file="file://$PROJECT_DIR$/kt/src/main/java/com/example/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ktproject/src/test/java/com/example/ktproject/ExampleUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -6292,8 +6142,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="315">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/feature/IDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Stuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/Ice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/model/DecorateCoke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoguang/src/main/java/com/example/XiaoGuangDecorate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
