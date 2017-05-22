@@ -11,5 +11,6 @@ class MainktActivity : AppCompatActivity() {
         setContentView(R.layout.activity_mainkt)
         var jake = person("jake", 19, "hello,world")
         jake.show()
+        println("")
     }
 }

@@ -1,21 +1,19 @@
 package com.example;
 
 
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.List;
-import java.util.Locale;
 import java.util.TimeZone;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
-import rx.Observable;
-import rx.Subscriber;
-import rx.functions.Action1;
-import rx.functions.Func2;
+import io.reactivex.Observable;
+import io.reactivex.ObservableEmitter;
+import io.reactivex.ObservableOnSubscribe;
+import io.reactivex.functions.Consumer;
+
 
 public class MyClass {
 
@@ -24,117 +22,22 @@ public class MyClass {
 //        first();
 //        OralTestResult();
 //        scan();
-       boolean is= aboveSevenOclock();
-        System.out.println(is);
-    }
-
-
-
-    public static void create() {
-        Observable o = Observable.create(new Observable.OnSubscribe<Object>() {
-            @Override
-            public void call(Subscriber<? super Object> subscriber) {
-                subscriber.onCompleted();
-                for (int i = 0; i < 5; i++) {
-                    System.out.println("init data===>" + i);
-                    subscriber.onNext(i);
-                }
-            }
-        });
-        o.subscribe(new Action1() {
-            @Override
-            public void call(Object o) {
-                System.out.println("data is==>" + o);
-            }
-        });
-    }
-
-    public static void first() {
-        Observable.concat(getDataFromNet(),
-                getDataFromLocal())
-                .first()
-                .subscribe(new Subscriber() {
-                    @Override
-                    public void onCompleted() {
-                        System.out.println("onCompleted");
-                    }
-
-                    @Override
-                    public void onError(Throwable e) {
-                        System.out.println("onError===>" + e);
-                    }
-
-                    @Override
-                    public void onNext(Object o) {
-                        System.out.println("onNext===>" + o);
-                    }
-                });
+//       boolean is= aboveSevenOclock();
+        String str = "朗读韵文\nI met a snake.\nNear the lake.\nHe ate the cake.\nMade his stomach ache.";
+        System.out.println(noChinsesText(str));
+        create();
 
     }
 
-    public static Observable getDataFromLocal() {
-        return Observable.create(new Observable.OnSubscribe<Object>() {
+    public static String noChinsesText(String text) {
+        String reg = "[\u4e00-\u9fa5]";
 
-            @Override
-            public void call(Subscriber<? super Object> subscriber) {
-                try {
-                    Thread.sleep(3000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                System.out.println("getDataFromLocal" + System.currentTimeMillis());
-                subscriber.onNext(1);
-                subscriber.onCompleted();
+        Pattern pat = Pattern.compile(reg);
 
-            }
-        });
-    }
+        Matcher mat = pat.matcher(text);
 
-    public static Observable getDataFromNet() {
-        return Observable.create(new Observable.OnSubscribe<Object>() {
-
-            @Override
-            public void call(Subscriber<? super Object> subscriber) {
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                System.out.println("getDataFromNet" + System.currentTimeMillis());
-                subscriber.onNext(2);
-                subscriber.onCompleted();
-            }
-        });
-    }
-
-    /**
-     * 如果这个数值就是0的话，就必须要用0.0,而不是＃.0,否则，就会个位缺失
-     */
-    public static void OralTestResult() {
-        DecimalFormat decimalFormat = (DecimalFormat) NumberFormat.getInstance(Locale.CHINA);
-        decimalFormat.applyPattern("0.0");//zero shows as absen
-//        decimalFormat.applyPattern("#.0");//zero shows as absen
-        System.out.println(decimalFormat.format(0.0));
-    }
-
-    /**
-     * 暂时没有找到太大的用处，可以替代for循环？
-     */
-    public static void scan() {
-        String[] str = {"liu", "hong", "ling", "catherine"};
-        Observable<String> scanAble = Observable.from(str);
-        final List<String> newStr = new ArrayList<>();
-        scanAble.scan("iam", new Func2<String, String, String>() {
-            @Override
-            public String call(String s, String s2) {
-                String result = s + s2;
-                System.out.println("result is==>" + result);
-                return result;
-
-            }
-        })
-        ;
-
+        String repickStr = mat.replaceAll("");
+        return repickStr;
     }
 
     /**
@@ -145,7 +48,7 @@ public class MyClass {
         Calendar c = Calendar.getInstance();
         c.setTimeZone(TimeZone.getTimeZone("GMT+8:00"));
 
-        Date oldDate=null;
+        Date oldDate = null;
         try {
             oldDate = sf.parse(sf.format(c.getTime()));
         } catch (ParseException e) {
@@ -155,6 +58,22 @@ public class MyClass {
         return oldDate.getHours() > 9;
     }
 
+    public static void create() {
+
+        Observable.create(new ObservableOnSubscribe<Object>() {
+            @Override
+            public void subscribe(ObservableEmitter<Object> e) throws Exception {
+                e.onNext("哈哈");
+            }
+        })
+                .subscribe(new Consumer<Object>() {
+                    @Override
+                    public void accept(Object o) throws Exception {
+                        System.out.println(" the result is===>" + o);
+                    }
+                });
+
+    }
 
 
 }
